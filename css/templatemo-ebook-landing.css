@@ -961,6 +961,35 @@ strong {
  background-color: #000000;
 }
 
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  /* position: absolute; */
+  bottom: 0; 
+  width: 100%;
+} 
+
+footer a {
+  color: #ffc107;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 24px;
+ }
+
+footer a:hover {
+   color: #f0f8ff;
+}
+footer p {
+  color: #b8b1b1;
+  margin: 10px 0;
+} 
+.social-icons-footer a {
+  color: #ffc107;
+  font-size: 24px;
+  margin:0 10px;
+}
 /*---------------------------------------
   RESPONSIVE STYLES               
 -----------------------------------------*/
